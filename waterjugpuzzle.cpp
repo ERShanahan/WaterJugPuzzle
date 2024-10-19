@@ -1,11 +1,3 @@
-/*******************************************************************************
- * Name        : waterjug.cpp
- * Author      : Ethan Shanahan and Kieran Corson
- * Date        : 10/11/2023
- * Description : Finds min number of fills to reach goal fill on three jugs using BFS
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
-
 #include <iostream>
 #include <sstream>
 #include <vector>
